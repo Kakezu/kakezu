@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Kaius and welcome to my profile page!
+- I'm currently learning to become proficient in cloud systems!
+
 <!--
 **Kakezu/kakezu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
